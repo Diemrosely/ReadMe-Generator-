@@ -1,11 +1,11 @@
 
-  # dag
+  # ReadMe Generator
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com//dag)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/diemrosely/readme-generator)
 
 ## Description
 
-aga
+ReadMe Generator
 
 ## Table of Contents
 
@@ -26,27 +26,27 @@ aga
 To install dependencies, please run the following command:
 
 ```
-a
+N/a
 ```
 
 ## Usage
 
-adgaddg
+It is a ReadMe Generator
 
 ## Contributing
 
-aga
+N/a
 
 ## Tests
 
 To run tests, please run the following commands:
 
 ```
-asg
+N/a
 ```
 
 ## Questions
 
 If you have any questions about this repo, please contact 
-[](undefined) 
-Email me at: aga.
+[diemrosely](undefined) 
+Email me at: diemrosely@gmail.com.
