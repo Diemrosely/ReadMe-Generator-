@@ -2,11 +2,13 @@
 
 ## Project Overview 
 
-Create a ReadMe Generator using:
+# Create a ReadMe Generator using:
 - Command Line Interface 
 - JavaScript 
 - Module Inquirer
 - NodeJS
+
+# Link to instructions: https://drive.google.com/file/d/1Fzi9n7IobhbDtkuLF55Fzvjq23MN80rd/view
 
 ## Acceptance Criteria
 
