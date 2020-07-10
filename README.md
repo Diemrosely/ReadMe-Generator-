@@ -37,3 +37,5 @@ AS A developer
 I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 ```
+![password generator demo](images/SS1.png)
+![password generator demo](./Assets/03-javascript-homework-demo.png)
