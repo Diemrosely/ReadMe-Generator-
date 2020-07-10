@@ -8,7 +8,7 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-[![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://github.com/${data.github}/${data.title.toLowerCase().split(' ').join("-")})
+[![GitHub license](https://img.shields.io/badge/license-${data.license.split(' ').join("")}-blue.svg)](https://github.com/${data.github}/${data.title.toLowerCase().split(' ').join("-")})
 
 ## Description
 
